@@ -3,7 +3,10 @@ Hello, i'm DarksNoobs, i love coding, eat and play foot⚽, video games💻.
 
 * I'am currently learning JavaScript :heart: and TypeScript. And continue to learning everything...
 
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+})
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+})
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black
+})
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksNoobsDev&theme=gruvbox)](https://github.com/DarksNoobsDev/github-readme-stats)
